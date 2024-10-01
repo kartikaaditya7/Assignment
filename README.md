@@ -1,6 +1,9 @@
-# Coding Assignment
+# Solutions to Coding Assignment: Design Patterns & Mars Rover Simulation
 
-This repository contains solutions for two programming exercises: demonstrating software design patterns and implementing a Mars Rover simulation. The repository is structured into two main folders:
+This repository contains solutions to two  programming exercises, demonstrating the use of design patterns and implementing a Mars Rover simulation. Each solution is contained within its respective folder, organized as follows:
 
-- **Exersice_1**: Solutions for Exercise 1, implementing various software design patterns.
-- **MarsRover**: A terminal-based Mars Rover simulation as part of the Mars Rover Programming Exercise.
+## Folder Overview
+
+- **Exersice_1**: This directory includes the solutions for the first exercise, where various software design patterns are implemented and demonstrated through Java code.
+  
+- **MarsRover**: This directory contains a terminal-based simulation for a Mars Rover. The simulation allows the rover to navigate across a grid-based terrain as part of the Mars Rover Programming Exercise.
